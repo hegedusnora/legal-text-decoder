@@ -26,10 +26,6 @@ This project aims to classify the complexity/readability of legal text snippets 
 **Results**:
 The baseline model achieved an accuracy of approx. 33%, heavily biased towards the majority class. The final Ensemble model improved generalization with a test accuracy around 35-40% and demonstrated better confusion matrix distribution across classes compared to the baseline, despite the extremely limited dataset size.
 
-### Extra Credit Justification
-
--
-
 ### Data Preparation
 
 The data preparation process is fully automated within the pipeline.
